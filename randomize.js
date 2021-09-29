@@ -1,3 +1,8 @@
 document.getElementById('randomize').onclick = function(){
-  alert("You just randomized the thing. good job.")
+  if (document.getElementById('tclass').checked){
+    alert("Randomizing Classes Only")
+  }
+  else{
+    alert("Randomizing Weapons")
+  }
 }
