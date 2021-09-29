@@ -1,0 +1,2969 @@
+{
+  "Splattershot Jr.": {
+    "thumbnail": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5e\/S2_Weapon_Main_Splattershot_Jr..png",
+    "class": "Shooter",
+    "sub": "Splat Bomb",
+    "special": "Ink Armor",
+    "level": 1,
+    "damage": "28",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "35\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "22\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "75\/100"
+    },
+    "description": "The Splattershot Jr. is a main weapon in Splatoon and Splatoon 2, coming from the weapon brand Splat.",
+    "url": "https:\/\/splatoonwiki.org\/wiki\/Splattershot_Jr."
+  },
+  "Splattershot": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/60/S2_Weapon_Main_Splattershot.png/128px-S2_Weapon_Main_Splattershot.png",
+    "class": "Shooter",
+    "sub": "Burst Bomb",
+    "special": "Splashdown",
+    "level": 1,
+    "damage": "35",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "50\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "45\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "60\/100"
+    },
+    "description": "The Splattershot is an all-around weapon in terms of power, range, and rate of fire, making it easy to use for players of all levels of experience.",
+    "url": "https:\/\/splatoonwiki.org\/wiki\/Splattershot"
+  },
+  "Splat Charger": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/e/eb/S2_Weapon_Main_Splat_Charger.png",
+    "class": "Charger",
+    "sub": "Splat Bomb",
+    "special": "Stingray",
+    "level": 3,
+    "damage": "40-80 partially charged, 160 fully charged",
+    "special pts": "220p",
+    "field 1": {
+      "name": "Range",
+      "value": "88\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "50\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "40\/100"
+    },
+    "description": "This weapon is the most basic form of charger in the Splatoon series, with all-around average performance",
+    "url": "https:\/\/splatoonwiki.org\/wiki\/Splat_Charger"
+  },
+  "Splat Roller": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/2/26/S2_Weapon_Main_Splat_Roller.png",
+    "class": "Roller",
+    "sub": "Curling Bomb",
+    "special": "Splashdown",
+    "level": 3,
+    "damage": "35-150 (Ground), 40-150 (Midair), 125 (Roll)",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "48\/100"
+    },
+    "field 2": {
+      "name": "Ink Speed",
+      "value": "45\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "55\/100"
+    },
+    "description": "The Splat Roller is a large paint roller. It covers turf while the player pushes it and can be used as a melee weapon.",
+    "url": "https://splatoonwiki.org/wiki/Splat_Roller"
+  },
+  "Custom Splattershot Jr.": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/6/6c/S2_Weapon_Main_Custom_Splattershot_Jr..png",
+    "class": "Shooter",
+    "sub": "Autobomb",
+    "special": "Ink Storm",
+    "level": 4,
+    "damage": "28",
+    "special pts": "160p",
+    "field 1": {
+      "name": "Range",
+      "value": "35\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "22\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "75\/100"
+    },
+    "description": "It is a variant of the Splattershot Jr., equipped with a star-shaped sticker on the side and an alternate loadout.",
+    "url": "https://splatoonwiki.org/wiki/Custom_Splattershot_Jr."
+  },
+  "Splat Dualies": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/d/de/S2_Weapon_Main_Splat_Dualies.png",
+    "class": "Dualies",
+    "sub": "Burst Bomb",
+    "special": "Tenta Missiles",
+    "level": 4,
+    "damage": "30",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "50\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "29\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "70\/100"
+    },
+    "description": "When fired, the Splat Dualies spray ink from both of the player's hands. Two reticles are displayed as a result, and each reticle acts independently, so an obstruction of one Dualie does not inhibit the shots of the other.",
+    "url": "https://splatoonwiki.org/wiki/Splat_Dualies"
+  },
+  "Tentatek Splattershot": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/b/b6/S2_Weapon_Main_Tentatek_Splattershot.png",
+    "class": "Shooter",
+    "sub": "Splat Bomb",
+    "special": "Inkjet",
+    "level": 4,
+    "damage":"35",
+    "special pts":"200p",
+    "field 1": {
+      "name": "Range",
+      "value":"50\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "45\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "60\/100"
+    },
+    "description":"The Tentatek Splattershot is a main weapon in Splatoon and Splatoon 2. It is the Tentatek version of the Splattershot",
+    "url": "https://splatoonwiki.org/wiki/Tentatek_Splattershot"
+  },
+  "Blaster": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/c/cc/S2_Weapon_Main_Blaster.png",
+    "class": "Blaster",
+    "sub": "Toxic Mist",
+    "special": "Splashdown",
+    "level": 5,
+    "damage": "50-70 (Splash), 125 (Direct hit)",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "27\/100"
+    },
+    "field 2": {
+      "name": "Impact",
+      "value": "70\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "20\/100"
+    },
+    "description": "The weapon shoots special ink rounds that burst like fireworks after traveling a certain distance. These bursts can deal damage in a wide area, allowing its user to attack opponents hiding behind obstacles and around corners.",
+    "url": "https://splatoonwiki.org/wiki/Blaster"
+  },
+  "Inkbrush": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/c/cb/S2_Weapon_Main_Inkbrush.png",
+    "class": "Brush",
+    "sub": "Splat Bomb",
+    "special": "Splashdown",
+    "level": 5,
+    "damage": "30 (Splash), 20 (Roll)",
+    "special pts": "150p",
+    "field 1": {
+      "name": "Range",
+      "value": "5\/100"
+    },
+    "field 2": {
+      "name": "Ink Speed",
+      "value": "100\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "100\/100"
+    },
+    "description": " the Inkbrush can be pushed along the ground while leaving a trail of ink. Much like the Splat Roller, the Inkbrush can be used as a sort of melee weapon that splatters some ink in front of the player.",
+    "url": "https://splatoonwiki.org/wiki/Inkbrush"
+  },
+  "Slosher": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/a/aa/S2_Weapon_Main_Slosher.png",
+    "class": "Slosher",
+    "sub": "Suction Bomb",
+    "special": "Tenta Missiles",
+    "level": 5,
+    "damage": "70 (Direct hit), 50 (Base trail)",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "58\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "85\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "50\/100"
+    },
+    "description": "The Slosher is a bucket of ink that can be swung to splatter turf and enemies in a straight line.",
+    "url": "https://splatoonwiki.org/wiki/Slosher"
+  },
+  "Aerospray MG": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/a/a1/S2_Weapon_Main_Aerospray_MG.png",
+    "class": "Shooter",
+    "sub": "Suction Bomb",
+    "special": "Curling-Bomb Launcher",
+    "level": 6,
+    "damage": "24",
+    "special pts": "160p",
+    "field 1": {
+      "name": "Range",
+      "value": "35\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "10\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "90\/100"
+    },
+    "description": "use this weapon if you hate yourself <:Splat_Tim:891518292005634059>",
+    "url": "https://splatoonwiki.org/wiki/Aerospray_MG"
+  },
+  "Kensa Splattershot": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/8/8f/S2_Weapon_Main_Kensa_Splattershot.png",
+    "class": "Shooter",
+    "sub": "Suction Bomb",
+    "special": "Tenta Missiles",
+    "level": 6,
+    "damage": "35",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "50\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "45\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "60\/100"
+    },
+    "description": "The Kensa Splattershot is a black-and-white Splattershot with the Toni Kensa signature red clothespin attached to the grip under the muzzle.",
+    "url": "https://splatoonwiki.org/wiki/Kensa_Splattershot"
+  },
+  "Carbon Roller": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/8/8a/S2_Weapon_Main_Carbon_Roller.png",
+    "class": "Roller",
+    "sub": "Autobomb",
+    "special": "Ink Storm",
+    "level": 7,
+    "damage": "25-100 (Ground), 40-120 (Midair), 70 (Roll)",
+    "special pts": "160p",
+    "field 1": {
+      "name": "Range",
+      "value": "20\/100"
+    },
+    "field 2": {
+      "name": "Ink Speed",
+      "value": "63\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "65\/100"
+    },
+    "description": "The Carbon Roller is the lighter and more mobile roller. It has an incredibly fast flick that still splats opponents in one hit.",
+    "url": "https://splatoonwiki.org/wiki/Carbon_Roller"
+  },
+  "Inkbrush Nouveau": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/e/ef/S2_Weapon_Main_Inkbrush_Nouveau.png",
+    "class": "Brush",
+    "sub": "Ink Mine",
+    "special": "Baller",
+    "level": 7,
+    "damage": "30 (Splash), 20 (Roll)",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "5\/100"
+    },
+    "field 2": {
+      "name": "Ink Speed",
+      "value": "100\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "100\/100"
+    },
+    "description": "The Inkbrush Nouveau is a main weapon in Splatoon and Splatoon 2. It is the Nouveau-branded version of the Inkbrush.",
+    "url": "https://splatoonwiki.org/wiki/Inkbrush_Nouveau"
+  },
+  "Heavy Splatling": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/2/2f/S2_Weapon_Main_Heavy_Splatling.png",
+    "class": "Splatling",
+    "sub": "Sprinkler",
+    "special": "Stingray",
+    "level": 8,
+    "damage": "30",
+    "special pts": "200p",
+    "field 1": {
+      "name": "Range",
+      "value": "78\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "38\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "50\/100"
+    },
+    "description": "The Heavy Splatling is capable of firing bursts of ink with high range, low damage, and a fast rate of fire.",
+    "url": "https://splatoonwiki.org/wiki/Heavy_Splatling"
+  },
+  "Slosher Deco": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/3/31/S2_Weapon_Main_Slosher_Deco.png",
+    "class": "Slosher",
+    "sub": "Sprinkler",
+    "special": "Baller",
+    "level": 8,
+    "damage": "70 (Direct hit), 50 (Base trail)",
+    "special pts": "220p",
+    "field 1": {
+      "name": "Range",
+      "value": "58\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "85\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "50\/100"
+    },
+    "description": "The Slosher Deco deals constant damage no matter how far away the ink travels, as opposed to rollers and shooters dealing less damage as ink travels farther due to fall-off damage.",
+    "url": "https://splatoonwiki.org/wiki/Slosher_Deco"
+  },
+  "Kensa Splattershot Jr.": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/e/eb/S2_Weapon_Main_Kensa_Splattershot_Jr..png",
+    "class": "Shooter",
+    "sub": "Torpedo",
+    "special": "Bubble Blower",
+    "level": 9,
+    "damage": "28",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "35\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "22\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "75\/100"
+    },
+    "description": "The Kensa Splattershot Jr. is a main weapon in Splatoon 2. It is a Toni Kensa-branded variant of the Splattershot Jr.",
+    "url": "https://splatoonwiki.org/wiki/Kensa_Splattershot_Jr."
+  },
+  "N-ZAP '85": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/e/e9/S2_Weapon_Main_N-ZAP_%2785.png",
+    "class": "Shooter",
+    "sub": "Suction Bomb",
+    "special": "Ink Armor",
+    "level": 9,
+    "damage": "28",
+    "special pts": "200p",
+    "field 1": {
+      "name": "Range",
+      "value": "50\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "22\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "75\/100"
+    },
+    "description": "The N-ZAP '85 highly resembles the original North American NES Zapper, an accessory for the Nintendo Entertainment System released in 1985, hence its name.",
+    "url": "https://splatoonwiki.org/wiki/N-ZAP_%2785"
+  },
+  "Splat Brella": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/6/69/S2_Weapon_Main_Splat_Brella.png",
+    "class": "Brella",
+    "sub": "Sprinkler",
+    "special": "Ink Storm",
+    "level": 9,
+    "damage": "16.2 per pellet (Cap: 81), 30 (Contact)",
+    "special pts": "200p",
+    "field 1": {
+      "name": "Range",
+      "value": "43\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "65\/100"
+    },
+    "field 3": {
+      "name": "Durability",
+      "value": "60\/100"
+    },
+    "description": "The weapon's shots resemble that of a shotgun; it has wide spread and short range, but not as wide and short-ranged as a roller. The player can press and hold ZR to open the umbrella, which will shield the player from any attacks in the direction they are facing.",
+    "url": "https://splatoonwiki.org/wiki/Splat_Brella"
+  },
+  "Carbon Roller Deco": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/4/49/S2_Weapon_Main_Carbon_Roller_Deco.png",
+    "class": "Roller",
+    "sub": "Burst Bomb",
+    "special": "Autobomb Launcher",
+    "level": 10,
+    "damage": "25-100 (Ground), 40-120 (Midair), 70 (Roll)",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "20\/100"
+    },
+    "field 2": {
+      "name": "Ink Speed",
+      "value": "63\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "65\/100"
+    },
+    "description": "The Carbon Roller Deco is a main weapon in Splatoon and Splatoon 2. It is a Deco-branded variant of the Carbon Roller, having the same stats but a different sub weapon and special weapon.",
+    "url": "https://splatoonwiki.org/wiki/Carbon_Roller_Deco"
+  },
+  "Octobrush": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/c/c3/S2_Weapon_Main_Octobrush.png",
+    "class": "Brush",
+    "sub": "Autobomb",
+    "special": "Inkjet",
+    "level": 10,
+    "damage": "40 (Splash), 25 (Roll)",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "23\/100"
+    },
+    "field 2": {
+      "name": "Ink Speed",
+      "value": "80\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "85\/100"
+    },
+    "description": "The Octobrush is similar to the Inkbrush in appearance and use, but has a slightly wider ink trail and slower movement speed. It spreads more ink with each swing than the Inkbrush, though at a slower rate.",
+    "url": "https://splatoonwiki.org/wiki/Octobrush"
+  },
+  "Splattershot Pro": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/d/d1/S2_Weapon_Main_Splattershot_Pro.png",
+    "class": "Shooter",
+    "sub": "Point Sensor",
+    "special": "Ink Storm",
+    "level": 10,
+    "damage": "42",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "70\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "60\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "30\/100"
+    },
+    "description": "The Splattershot Pro is an advanced weapon in terms of power and range, making it easy to use for more experienced players.",
+    "url": "https://splatoonwiki.org/wiki/Splattershot_Pro"
+  },
+  "Sploosh-o-matic": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/1/1a/S2_Weapon_Main_Sploosh-o-matic.png",
+    "class": "Shooter",
+    "sub": "Curling Bomb",
+    "special": "Splashdown",
+    "level": 10,
+    "damage": "38",
+    "special pts": "160p",
+    "field 1": {
+      "name": "Range",
+      "value": "12\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "52\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "75\/100"
+    },
+    "description": "This weapon is a fast-firing, low-accuracy shooter. It has a steampunk-style look, similar to its cousin, the Splash-o-matic. Due to its high attack power, it excels in short range combat.",
+    "url": "https://splatoonwiki.org/wiki/Sploosh-o-matic"
+  },
+  "Bloblobber": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/4/45/S2_Weapon_Main_Bloblobber.png",
+    "class": "Slosher",
+    "sub": "Splash Wall",
+    "special": "Ink Storm",
+    "level": 11,
+    "damage": "30",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "85\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "29\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "50\/100"
+    },
+    "description": "The bloblobber is a slosher-type weapon that shoots a row of four small bubbles which are able to bounce along the ground and off walls. The weapon boasts fairly long range and is able to splat opponents in a single shot if all four bubbles connect.",
+    "url": "https://splatoonwiki.org/wiki/Bloblobber"
+  },
+  "Enperry Splat Dualies": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/6/69/S2_Weapon_Main_Enperry_Splat_Dualies.png",
+    "class": "Dualies",
+    "sub": "Curling Bomb",
+    "special": "Inkjet",
+    "level": 11,
+    "damage": "30",
+    "special pts": "200p",
+    "field 1": {
+      "name": "Range",
+      "value": "50\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "29\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "70\/100"
+    },
+    "description": "The Enperry Splat Dualies are a variant of the Splat Dualies with the same stats but a different loadout and look, inspired by the brand Enperry.",
+    "url": "https://splatoonwiki.org/wiki/Enperry_Splat_Dualies"
+  },
+  "N-ZAP '89": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/2/20/S2_Weapon_Main_N-ZAP_%2789.png",
+    "class": "Shooter",
+    "sub": "Autobomb",
+    "special": "Tenta Missiles",
+    "level": 11,
+    "damage": "28",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "50\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "22\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "75\/100"
+    },
+    "description": "It is a N-ZAP '85 with a different color scheme and a different sub and special weapon. It is modeled after the NES Zapper after its redesign in 1989 due to a law requiring that all toy guns have an orange tip or exterior.",
+    "url": "https://splatoonwiki.org/wiki/N-ZAP_%2789"
+  },
+  "Classic Squiffer": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/6/6f/S2_Weapon_Main_Classic_Squiffer.png",
+    "class": "Charger",
+    "sub": "Point Sensor",
+    "special": "Ink Armor",
+    "level": 12,
+    "damage": "40-80 partially charged, 140 fully charged",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "75\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "70\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "60\/100"
+    },
+    "description": "The Classic Squiffer is a charger-type weapon that charges faster than a Splat Charger, and uses less ink, but suffers from less range.",
+    "url": "https://splatoonwiki.org/wiki/Classic_Squiffer"
+  },
+  "Dualie Squelchers": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/3/33/S2_Weapon_Main_Dualie_Squelchers.png",
+    "class": "Dualies",
+    "sub": "Point Sensor",
+    "special": "Tenta Missiles",
+    "level": 12,
+    "damage": "28",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "70\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "22\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "70\/100"
+    },
+    "description": "Compared to the Splat Dualies, the Dualie Squelchers have a slightly faster roll and are not locked into place, but suffer from an overall reduced firing rates and no fire rate increase after rolling. They have the most range of any dualies-type weapon in the game.",
+    "url": "https://splatoonwiki.org/wiki/Dualie_Squelchers"
+  },
+  "Heavy Splatling Deco": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/9/9a/S2_Weapon_Main_Heavy_Splatling_Deco.png",
+    "class": "Splatling",
+    "sub": "Splash Wall",
+    "special": "Bubble Blower",
+    "level": 12,
+    "damage": "30",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "78\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "38\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "50\/100"
+    },
+    "description": "The Heavy Splatling Deco is a main weapon in Splatoon and Splatoon 2. It is a Deco-branded version of the Heavy Splatling.",
+    "url": "https://splatoonwiki.org/wiki/Heavy_Splatling_Deco"
+  },
+  "Krak-on Splat Roller": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/6/62/S2_Weapon_Main_Krak-On_Splat_Roller.png",
+    "class": "Roller",
+    "sub": "Squid Beacon",
+    "special": "Baller",
+    "level": 12,
+    "damage": "35-150 (Ground), 40-150 (Midair), 125 (Roll)",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "48\/100"
+    },
+    "field 2": {
+      "name": "Ink Speed",
+      "value": "45\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "55\/100"
+    },
+    "description": "The Krak-On Splat Roller is a main weapon in Splatoon and Splatoon 2. It is the Krak-On branded variant of the Splat Roller.",
+    "url": "https://splatoonwiki.org/wiki/Krak-On_Splat_Roller"
+  },
+  "Permanent Inkbrush": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/3/3a/S2_Weapon_Main_Permanent_Inkbrush.png",
+    "class": "Brush",
+    "sub": "Sprinkler",
+    "special": "Ink Armor",
+    "level": 12,
+    "damage": "30 (Splash), 20 (Roll)",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "5\/100"
+    },
+    "field 2": {
+      "name": "Ink Speed",
+      "value": "100\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "100\/100"
+    },
+    "description": "The Permanent Inkbrush is a main weapon in Splatoon and Splatoon 2. It is a recolored Inkbrush, with a red stick instead of blue, and a different sub weapon and special weapon loadout.",
+    "url": "https://splatoonwiki.org/wiki/Permanent_Inkbrush"
+  },
+  "Rapid Blaster": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/1/1d/S2_Weapon_Main_Rapid_Blaster.png",
+    "class": "Blaster",
+    "sub": "Ink Mine",
+    "special": "Splat-Bomb Launcher",
+    "level": 13,
+    "damage": "35 (Splash), 85 (Direct)",
+    "special pts": "200p",
+    "field 1": {
+      "name": "Range",
+      "value": "62\/100"
+    },
+    "field 2": {
+      "name": "Impact",
+      "value": "35\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "40\/100"
+    },
+    "description": "The Rapid Blaster is a Blaster-class weapon that is similar to the Blaster, but fires much faster and has greater range. However, this comes at the cost of less Ink coverage, a smaller blast radius, and weaker shots.",
+    "url": "https://splatoonwiki.org/wiki/Rapid_Blaster"
+  },
+  "Sloshing Machine": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/e/ec/S2_Weapon_Main_Sloshing_Machine.png",
+    "class": "Slosher",
+    "sub": "Autobomb",
+    "special": "Stingray",
+    "level": 13,
+    "damage": "38 (Splash), 76 (Direct hit)",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "60\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "90\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "40\/100"
+    },
+    "description": "The Sloshing Machine launches a small mortar-like glob that is trailed by a vortex of ink. The glob leaves a path of ink while it travels, and bursts on contact with a surface or an enemy. Most notably, the vortex of ink allows the Sloshing Machine to do splash damage.",
+    "url": "https://splatoonwiki.org/wiki/Sloshing_Machine"
+  },
+  "Undercover Brella": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/e/e6/S2_Weapon_Main_Undercover_Brella.png",
+    "class": "Brella",
+    "sub": "Ink Mine",
+    "special": "Splashdown",
+    "level": 13,
+    "damage": "12 per pellet (Cap: 40), 15 (Contact)",
+    "special pts": "150p",
+    "field 1": {
+      "name": "Range",
+      "value": "50\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "30\/100"
+    },
+    "field 3": {
+      "name": "Durability",
+      "value": "25\/100"
+    },
+    "description": "The Undercover Brella is a brella that can be fired in rapid succession while its semi-transparent shield is open. The shield will open after the first shot fires if the user is holding down the trigger. The shield cannot be launched, and has the lowest durability in its class.",
+    "url": "https://splatoonwiki.org/wiki/Undercover_Brella"
+  },
+  ".52 Gal": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/6/66/S2_Weapon_Main_.52_Gal.png",
+    "class": "Shooter",
+    "sub": "Point Sensor",
+    "special": "Baller",
+    "level": 14,
+    "damage": "52",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "55\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "75\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "25\/100"
+    },
+    "description": "This weapon distinguishes itself by outputting enough ink in each shot to splat opponents in two hits, while still having a decent rate of fire. The weapon's fire rate is lesser than the Splattershot Pro and greater than the .96 Gal. Its only major drawback is its poor accuracy and turf covering ability.",
+    "url": "https://splatoonwiki.org/wiki/.52_Gal"
+  },
+  "Range Blaster": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/3/3d/S2_Weapon_Main_Range_Blaster.png",
+    "class": "Blaster",
+    "sub": "Suction Bomb",
+    "special": "Ink Storm",
+    "level": 14,
+    "damage": "50-70 (Splash), 125 (Direct hit)",
+    "special pts": "200p",
+    "field 1": {
+      "name": "Range",
+      "value": "56\/100"
+    },
+    "field 2": {
+      "name": "Impact",
+      "value": "70\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "10\/100"
+    },
+    "description": "The Range Blaster, as its name implies, is a variation of a regular Blaster with shots that travel farther before exploding. As a tradeoff, this blaster has a lower rate of fire and higher ink consumption.",
+    "url": "https://splatoonwiki.org/wiki/Range_Blaster"
+  },
+  "Kensa Splat Roller": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/c/c2/S2_Weapon_Main_Kensa_Splat_Roller.png",
+    "class": "Roller",
+    "sub": "Splat Bomb",
+    "special": "Bubble Blower",
+    "level": 14,
+    "damage": "35-150 (Ground), 40-150 (Midair), 125 (Roll)",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "48\/100"
+    },
+    "field 2": {
+      "name": "Ink Speed",
+      "value": "45\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "55\/100"
+    },
+    "description": "The Kensa Splat Roller is a main weapon in Splatoon 2. It is a Toni Kensa-branded variant of the Splat Roller.",
+    "url": "https://splatoonwiki.org/wiki/Kensa_Splat_Roller"
+  },
+  "Dark Tetra Dualies": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/8/8d/S2_Weapon_Main_Dark_Tetra_Dualies.png",
+    "class": "Dualies",
+    "sub": "Autobomb",
+    "special": "Splashdown",
+    "level": 14,
+    "damage": "28",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "58\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "22\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "90\/100"
+    },
+    "description": "Each pistol has two muzzles and four dodge roll nozzles, which allows the user to perform up to four dodge rolls in a row. The dodge rolls are however somewhat slower than the regular Splat Dualies and it takes longer to start rolling and moving normally again.",
+    "url": "https://splatoonwiki.org/wiki/Dark_Tetra_Dualies"
+  },
+  "Tri-Slosher": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/3/32/S2_Weapon_Main_Tri-Slosher.png",
+    "class": "Slosher",
+    "sub": "Burst Bomb",
+    "special": "Ink Armor",
+    "level": 15,
+    "damage": "62",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "30\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "75\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "70\/100"
+    },
+    "description": "The Tri-Slosher is a slosher-type weapon that is separated into three sections and is similar in appearance as a Japanese brush washer bucket. As its appearance implies, it can throw in three different directions. It covers a straight line forward and two splotches to the side.",
+    "url": "https://splatoonwiki.org/wiki/Tri-Slosher"
+  },
+  "Octobrush Nouveau": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/2/2a/S2_Weapon_Main_Octobrush_Nouveau.png",
+    "class": "Brush",
+    "sub": "Squid Beacon",
+    "special": "Tenta Missiles",
+    "level": 15,
+    "damage": "40 (Splash), 25 (Roll)",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "23\/100"
+    },
+    "field 2": {
+      "name": "Ink Speed",
+      "value": "80\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "85\/100"
+    },
+    "description": "The Octobrush Nouveau is a main weapon in Splatoon and Splatoon 2. It is the Nouveau version of the Octobrush.",
+    "url": "https://splatoonwiki.org/wiki/Octobrush_Nouveau"
+  },
+  "Splatterscope": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/a/ad/S2_Weapon_Main_Splatterscope.png",
+    "class": "Charger",
+    "sub": "Splat Bomb",
+    "special": "Stingray",
+    "level": 15,
+    "damage": "40-80 partially charged, 160 fully charged",
+    "special pts": "220p",
+    "field 1": {
+      "name": "Range",
+      "value": "91\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "50\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "30\/100"
+    },
+    "description": "The Splatterscope is Splat Charger with a scope attached. Compared to the scopeless version it has enhanced range and a zoomed view for greater aiming precision, but players have their field of vision limited by the scope. The scoped version also loses the ability to store a charge in Splatoon 2.",
+    "url": "https://splatoonwiki.org/wiki/Splatterscope"
+  },
+  "Sorella Brella": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/c/c3/S2_Weapon_Main_Sorella_Brella.png",
+    "class": "Brella",
+    "sub": "Autobomb",
+    "special": "Splat-Bomb Launcher",
+    "level": 15,
+    "damage": "16.2 per pellet (Cap: 81), 30 (Contact)",
+    "special pts": "200p",
+    "field 1": {
+      "name": "Range",
+      "value": "43\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "65\/100"
+    },
+    "field 3": {
+      "name": "Durability",
+      "value": "60\/100"
+    },
+    "description": "The Sorella Brella is a main weapon in Splatoon 2. It is a Sorella-branded version of the Splat Brella and comes with a different sub weapon and special weapon.",
+    "url": "https://splatoonwiki.org/wiki/Sorella_Brella"
+  },
+  "Soda Slosher": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/1/14/S2_Weapon_Main_Soda_Slosher.png",
+    "class": "Slosher",
+    "sub": "Splat Bomb",
+    "special": "Burst-Bomb Launcher",
+    "level": 16,
+    "damage": "70 (Direct hit), 50 (Base trail)",
+    "special pts": "210p",
+    "field 1": {
+      "name": "Range",
+      "value": "58\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "85\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "50\/100"
+    },
+    "description": "The Soda Slosher is a main weapon in Splatoon and Splatoon 2. It is a Slosher with a different loadout and a different color scheme.",
+    "url": "https://splatoonwiki.org/wiki/Soda_Slosher"
+  },
+  "Rapid Blaster Deco": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/2/29/S2_Weapon_Main_Rapid_Blaster_Deco.png",
+    "class": "Shooter",
+    "sub": "Suction Bomb",
+    "special": "Inkjet",
+    "level": 16,
+    "damage": "35 (Splash), 85 (Direct)",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "62\/100"
+    },
+    "field 2": {
+      "name": "Impact",
+      "value": "35\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "40\/100"
+    },
+    "description": "The Rapid Blaster Deco is a main weapon in Splatoon and Splatoon 2. It is the Deco-branded version of the Rapid Blaster.",
+    "url": "https://splatoonwiki.org/wiki/Rapid_Blaster_Deco"
+  },
+  "Squeezer": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/f/f6/S2_Weapon_Main_Squeezer.png",
+    "class": "Shooter",
+    "sub": "Splash Wall",
+    "special": "Stingray",
+    "level": 16,
+    "damage": "38 (Tap ZR), 30 (Hold ZR)",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "77\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "52\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "29\/100"
+    },
+    "description": "The Squeezer is a main weapon in Splatoon 2. It is a shooter-type weapon where pulling the trigger once squirts out a single long-range, low spread, high-power ink shot, and holding the button leads to successive short-range, high spread, lower-powered shots.",
+    "url": "https://splatoonwiki.org/wiki/Squeezer"
+  },
+  "Custom Dualie Squelchers": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/1/15/S2_Weapon_Main_Custom_Dualie_Squelchers.png",
+    "class": "Dualies",
+    "sub": "Splat Bomb",
+    "special": "Ink Storm",
+    "level": 16,
+    "damage": "28",
+    "special pts": "220p",
+    "field 1": {
+      "name": "Range",
+      "value": "70\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "22\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "70\/100"
+    },
+    "description": "The Custom Dualie Squelchers are a main weapon in Splatoon 2. They are a Custom-branded version of the Dualie Squelchers and come with a different sub weapon and special weapon.",
+    "url": "https://splatoonwiki.org/wiki/Custom_Dualie_Squelchers"
+  },
+  "Kensa Splat Dualies": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/a/a5/S2_Weapon_Main_Kensa_Splat_Dualies.png",
+    "class": "Dualies",
+    "sub": "Suction Bomb",
+    "special": "Baller",
+    "level": 16,
+    "damage": "30",
+    "special pts": "210p",
+    "field 1": {
+      "name": "Range",
+      "value": "50\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "29\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "70\/100"
+    },
+    "description": "The Kensa Splat Dualies are black-and-white Splat Dualies with a Toni Kensa signature red clothespin attached to the back of each pistol.",
+    "url": "https://splatoonwiki.org/wiki/Kensa_Splat_Dualies"
+  },
+  "Firefin Splat Charger": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/b/bb/S2_Weapon_Main_Firefin_Splat_Charger.png",
+    "class": "Charger",
+    "sub": "Splash Wall",
+    "special": "Suction-Bomb Launcher",
+    "level": 16,
+    "damage": "40-80 partially charged, 160 fully charged",
+    "special pts": "220p",
+    "field 1": {
+      "name": "Range",
+      "value": "88\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "50\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "40\/100"
+    },
+    "description": "The Firefin Splat Charger is a main weapon in Splatoon 2. It is a Firefin-branded version of the Splat Charger.",
+    "url": "https://splatoonwiki.org/wiki/Firefin_Splat_Charger"
+  },
+  "Tri-Slosher Nouveau": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/e/ed/S2_Weapon_Main_Tri-Slosher_Nouveau.png",
+    "class": "Slosher",
+    "sub": "Splat Bomb",
+    "special": "Ink Storm",
+    "level": 17,
+    "damage": "62",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "30\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "75\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "70\/100"
+    },
+    "description": "The Tri-Slosher Nouveau is a main weapon in Splatoon and Splatoon 2. It is the Nouveau-branded version of the Tri-Slosher with a different loadout.",
+    "url": "https://splatoonwiki.org/wiki/Tri-Slosher_Nouveau"
+  },
+  "Jet Squelcher": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/9/91/S2_Weapon_Main_Jet_Squelcher.png",
+    "class": "Shooter",
+    "sub": "Toxic Mist",
+    "special": "Tenta Missiles",
+    "level": 17,
+    "damage": "32",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "82\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "35\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "30\/100"
+    },
+    "description": "The Jet Squelcher is a main weapon in Splatoon and Splatoon 2. It has a slow fire rate and low damage compared to other shooters, but has the highest amount of range than any other shooter.",
+    "url": "https://splatoonwiki.org/wiki/Jet_Squelcher"
+  },
+  "Glooga Dualies": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/6/68/S2_Weapon_Main_Glooga_Dualies.png",
+    "class": "Dualies",
+    "sub": "Ink Mine",
+    "special": "Inkjet",
+    "level": 17,
+    "damage": "36 (52.5 post-roll)",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "66\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "76\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "35\/100"
+    },
+    "description": "The Glooga Dualies are a dualie-type weapon whose power increases immediately following a dodge-roll. When shooting normally, they splat opponents with three hits. After performing a dodge roll, it only takes two hits to splat an opponent and the shots will travel further.",
+    "url": "https://splatoonwiki.org/wiki/Glooga_Dualies"
+  },
+  "New Squiffer": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/2/21/S2_Weapon_Main_New_Squiffer.png",
+    "class": "Charger",
+    "sub": "Autobomb",
+    "special": "Baller",
+    "level": 17,
+    "damage": "40-80 partially charged, 140 fully charged",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "75\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "70\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "60\/100"
+    },
+    "description": "The New Squiffer is a main weapon in Splatoon and Splatoon 2. The New Squiffer is a Classic Squiffer, but with a red and yellow starburst sticker, and a different sub weapon and special weapon.",
+    "url": "https://splatoonwiki.org/wiki/New_Squiffer"
+  },
+  "Explosher": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/1/13/S2_Weapon_Main_Explosher.png",
+    "class": "Slosher",
+    "sub": "Sprinkler",
+    "special": "Bubble Blower",
+    "level": 18,
+    "damage": "35 (splash), 55 (direct hit)",
+    "special pts": "210p",
+    "field 1": {
+      "name": "Range",
+      "value": "77\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "65\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "20\/100"
+    },
+    "description": "The weapon fires projectiles in an arc similar to the Sloshing Machine, though instead of an indirect splash radius that follows the projectile, the Explosher fires a projectile that will explode upon hitting a surface.",
+    "url": "https://splatoonwiki.org/wiki/Explosher"
+  },
+  "Custom Range Blaster": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/a/a7/S2_Weapon_Main_Custom_Range_Blaster.png",
+    "class": "Blaster",
+    "sub": "Curling Bomb",
+    "special": "Bubble Blower",
+    "level": 18,
+    "damage": "50-70 (Splash), 125 (Direct hit)",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "56\/100"
+    },
+    "field 2": {
+      "name": "Impact",
+      "value": "70\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "10\/100"
+    },
+    "description": "The Custom Range Blaster is a main weapon in Splatoon and Splatoon 2. It is a Custom-branded version of the Range Blaster.",
+    "url": "https://splatoonwiki.org/wiki/Custom_Range_Blaster"
+  },
+  "L-3 Nozzlenose": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/8/84/S2_Weapon_Main_L-3_Nozzlenose.png",
+    "class": "Nozzlenose",
+    "sub": "Curling Bomb",
+    "special": "Baller",
+    "level": 18,
+    "damage": "29",
+    "special pts": "220p",
+    "field 1": {
+      "name": "Range",
+      "value": "62\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "25\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "65\/100"
+    },
+    "description": "The L-3 Nozzlenose is a main weapon in Splatoon and Splatoon 2. Unlike most other shooters, pressing ZR automatically fires three shots at a time. While all three shots within a burst are fired very fast, firing another burst takes slightly more time.",
+    "url": "https://splatoonwiki.org/wiki/L-3_Nozzlenose"
+  },
+  "Neo Sploosh-o-matic": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/e/e7/S2_Weapon_Main_Neo_Sploosh-o-matic.png",
+    "class": "Shooter",
+    "sub": "Squid Beacon",
+    "special": "Tenta Missiles",
+    "level": 18,
+    "damage": "38",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "12\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "52\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "75\/100"
+    },
+    "description": "A Neo-branded version of the sploosh-o-matic. It has high attack, low range, and large spread. Its kit allows the player to support the team along with excelling at close-range combat. THANKS TO YOUR [total jackass stunts] I HAVE [becomed] NEO.",
+    "url": "https://splatoonwiki.org/wiki/Neo_Sploosh-o-matic"
+  },
+  "Bamboozler 14 Mk I": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/5/50/S2_Weapon_Main_Bamboozler_14_Mk_I.png",
+    "class": "Charger",
+    "sub": "Curling Bomb",
+    "special": "Tenta Missiles",
+    "level": 18,
+    "damage": "30-85",
+    "special pts": "200p",
+    "field 1": {
+      "name": "Range",
+      "value": "78\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "90\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "80\/100"
+    },
+    "description": "The Bamboozler 14 Mk I has an extremely high charge rate, the highest of the chargers, allowing shots to be fired off in quick succession. It also has decent range and mobility. However, while it is the quickest charger, it is also the weakest; it cannot splat an enemy in one hit, even when fully charged.",
+    "url": "https://splatoonwiki.org/wiki/Bamboozler_14_Mk_I"
+  },
+  "Heavy Splatling Remix": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/0/05/S2_Weapon_Main_Heavy_Splatling_Remix.png",
+    "class": "Splatling",
+    "sub": "Point Sensor",
+    "special": "Booyah Bomb",
+    "level": 19,
+    "damage": "30",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "78\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "38\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "50\/100"
+    },
+    "description": "The Heavy Splatling Remix is a main weapon in Splatoon and Splatoon 2. It is a Heavy Splatling with a different loadout and a different color scheme.",
+    "url": "https://splatoonwiki.org/wiki/Heavy_Splatling_Remix"
+  },
+  "Sloshing Machine Neo": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/7/7d/S2_Weapon_Main_Sloshing_Machine_Neo.png",
+    "class": "Slosher",
+    "sub": "Point Sensor",
+    "special": "Splat-Bomb Launcher",
+    "level": 19,
+    "damage": "38 (Splash), 76 (Direct hit)",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "60\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "90\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "40\/100"
+    },
+    "description": "The Sloshing Machine Neo is a main weapon in Splatoon and Splatoon 2. It is a Neo-branded variant of the Sloshing Machine. THANKS TO YOUR [total jackass stunts] I HAVE [becomed] NEO.",
+    "url": "https://splatoonwiki.org/wiki/Sloshing_Machine_Neo"
+  },
+  "Luna Blaster": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/6/6d/S2_Weapon_Main_Luna_Blaster.png",
+    "class": "Blaster",
+    "sub": "Splat Bomb",
+    "special": "Baller",
+    "level": 19,
+    "damage": "50-70 (Splash), 125 (Direct hit)",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "9\/100"
+    },
+    "field 2": {
+      "name": "Impact",
+      "value": "70\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "30\/100"
+    },
+    "description": "Like other blasters, the Luna Blaster fires an explosive round that lets it deal damage to opponents hiding behind obstacles or around corners. It takes one direct hit or two indirect hits to splat an opponent, but shooting the opponent directly rather than relying on the blast takes careful and precise aim due to the weapon's low firing rate.",
+    "url": "https://splatoonwiki.org/wiki/Luna_Blaster"
+  },
+  "N-ZAP '83": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/c/cb/S2_Weapon_Main_N-ZAP_%2783.png",
+    "class": "Shooter",
+    "sub": "Sprinkler",
+    "special": "Ink Storm",
+    "level": 19,
+    "damage": "28",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "50\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "22\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "75\/100"
+    },
+    "description": "The N-ZAP '83 is a main weapon in Splatoon and Splatoon 2. It is a Sheldon's Picks-branded variant of the N-ZAP '85 and comes with a different sub and special. It has a similar color scheme to the Famicom, an early version of the NES which was released in 1983 only in Japan, hence its name.",
+    "url": "https://splatoonwiki.org/wiki/N-ZAP_%2783"
+  },
+  "Kensa Charger": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/e/ee/S2_Weapon_Main_Kensa_Charger.png",
+    "class": "Charger",
+    "sub": "Sprinkler",
+    "special": "Baller",
+    "level": 19,
+    "damage": "40-80 partially charged, 160 fully charged",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "88\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "50\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "40\/100"
+    },
+    "description": "The Kensa Charger is a main weapon in Splatoon 2. It is a Toni Kensa-branded variant of the Splat Charger.",
+    "url": "https://splatoonwiki.org/wiki/Kensa_Charger"
+  },
+  "Undercover Sorella Brella": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/9/93/S2_Weapon_Main_Undercover_Sorella_Brella.png",
+    "class": "Brella",
+    "sub": "Splat Bomb",
+    "special": "Baller",
+    "level": 19,
+    "damage": "12 per pellet (Cap: 40), 15 (Contact)",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "50\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "30\/100"
+    },
+    "field 3": {
+      "name": "Durability",
+      "value": "25\/100"
+    },
+    "description": "The Undercover Sorella Brella is an main weapon in Splatoon 2. It is a Sorella-branded version of the Undercover Brella and comes with a different sub weapon and special weapon.",
+    "url": "https://splatoonwiki.org/wiki/Undercover_Sorella_Brella"
+  },
+  "Bloblobber Deco": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/1/19/S2_Weapon_Main_Bloblobber_Deco.png",
+    "class": "Slosher",
+    "sub": "Sprinkler",
+    "special": "Suction-Bomb Launcher",
+    "level": 20,
+    "damage": "30",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "85\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "29\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "50\/100"
+    },
+    "description": "The Bloblobber Deco is a main weapon in Splatoon 2. It is a Deco-branded variant of the Bloblobber.",
+    "url": "https://splatoonwiki.org/wiki/Bloblobber_Deco"
+  },
+  "Forge Splattershot Pro": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a7/S2_Weapon_Main_Forge_Splattershot_Pro.png/128px-S2_Weapon_Main_Forge_Splattershot_Pro.png",
+    "class": "Shooter",
+    "sub": "Suction Bomb",
+    "special": "Bubble Blower",
+    "level": 20,
+    "damage": "42",
+    "special pts": "200p",
+    "field 1": {
+      "name": "Range",
+      "value": "70\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "60\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "30\/100"
+    },
+    "description": "Once king of the meta, this is a forge-branded Splattershot Pro. it has higher range and damage than the regular splattershot, but with a lower fire rate and higher ink consumption. The kit is great for up-close pressure and quickly entering engagements.",
+    "url": "https://splatoonwiki.org/wiki/Forge_Splattershot_Pro"
+  },
+  "Dynamo Roller": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/24/S2_Weapon_Main_Dynamo_Roller.png/128px-S2_Weapon_Main_Dynamo_Roller.png",
+    "class": "Roller",
+    "sub": "Ink Mine",
+    "special": "Stingray",
+    "level": 20,
+    "damage": "40-180 (ground), 40-180 (air), 125 (roll)",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "76\/100"
+    },
+    "field 2": {
+      "name": "Ink Speed",
+      "value": "25\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "20\/100"
+    },
+    "description": "A roller that trades long range and high damage with low speed and handling. The kit is great for if you're on the back line with a roller, for whatever godforsaken reason led you to that playstyle.",
+    "url": "https://splatoonwiki.org/wiki/Dynamo_Roller"
+  },
+  "Kensa Octobrush": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/22/S2_Weapon_Main_Kensa_Octobrush.png/128px-S2_Weapon_Main_Kensa_Octobrush.png",
+    "class": "Brush",
+    "sub": "Suction Bomb",
+    "special": "Ultra Stamp",
+    "level": 20,
+    "damage": "40 (Splash), 25 (Roll)",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "23\/100"
+    },
+    "field 2": {
+      "name": "Ink Speed",
+      "value": "80\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "85\/100"
+    },
+    "description": "A Toni Kensa-branded variant of the Octobrush. It has a higher hitbox than the inkbrush, but with a slower ink speed. The kit makes it great for close-quarters pressure.",
+    "url": "https://splatoonwiki.org/wiki/Kensa_Octobrush"
+  },
+  "E-liter 4K": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/db/S2_Weapon_Main_E-liter_4K.png/128px-S2_Weapon_Main_E-liter_4K.png",
+    "class": "Charger",
+    "sub": "Ink Mine",
+    "special": "Ink Storm",
+    "level": 20,
+    "damage": "40-80 partially charged, 180 fully charged",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "96\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "20\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "15\/100"
+    },
+    "description": "The E-liter 4k is a charger that sacrifices mobility and charge time for extreme range and damage. The kit makes it great for drawing targets out of their hiding places.",
+    "url": "https://splatoonwiki.org/wiki/E-liter_4K"
+  },
+  "Kensa Sloshing Machine": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/cf/S2_Weapon_Main_Kensa_Sloshing_Machine.png/128px-S2_Weapon_Main_Kensa_Sloshing_Machine.png",
+    "class": "Slosher",
+    "sub": "Fizzy Bomb",
+    "special": "Splashdown",
+    "level": 21,
+    "damage": "38 (Splash), 76 (Direct hit)",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "60\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "90\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "40\/100"
+    },
+    "description": "a Toni Kensa-branded variant of the Sloshing Machine. It fires a blaster-like vortex of ink as its projectile. The kit makes it good for maintaining your position in the backline and keeping enemies away.",
+    "url": "https://splatoonwiki.org/wiki/Kensa_Sloshing_Machine"
+  },
+  ".96 Gal": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/39/S2_Weapon_Main_.96_Gal.png/128px-S2_Weapon_Main_.96_Gal.png",
+    "class": "Shooter",
+    "sub": "Sprinkler",
+    "special": "Ink Armor",
+    "level": 21,
+    "damage": "62",
+    "special pts": "62",
+    "field 1": {
+      "name": "Range",
+      "value": "74\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "80\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "10\/100"
+    },
+    "description": "A shooter that trades high firepower and long range for reduced ink efficiency and lower rate of fire. Sprinkler can help you get that ink armor up as compensation for the weapon's lackluster inking capabilites",
+    "url": "https://splatoonwiki.org/wiki/.96_Gal"
+  },
+  "Kensa Rapid Blaster": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/ca/S2_Weapon_Main_Kensa_Rapid_Blaster.png/128px-S2_Weapon_Main_Kensa_Rapid_Blaster.png",
+    "class": "Blaster",
+    "sub": "Torpedo",
+    "special": "Baller",
+    "level": 21,
+    "damage": "35 (splash), 85 (direct hit)",
+    "special pts": "200p",
+    "field 1": {
+      "name": "Range",
+      "value": "62\/100"
+    },
+    "field 2": {
+      "name": "Impact",
+      "value": "35\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "40\/100"
+    },
+    "description": "a Toni Kensa-branded variant of the Rapid Blaster. It has higher range and much higher fire rate at the cost of blast radius and less damage. Torpedoes are perfect for comboing with your main, and baller lets you get out of trouble when you need to.",
+    "url": "https://splatoonwiki.org/wiki/Kensa_Rapid_Blaster"
+  },
+  "Light Tetra Dualies": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f1/S2_Weapon_Main_Light_Tetra_Dualies.png/128px-S2_Weapon_Main_Light_Tetra_Dualies.png",
+    "class": "Dualies",
+    "sub": "Sprinkler",
+    "special": "Autobomb Launcher",
+    "level": 21,
+    "damage": "28",
+    "special pts": "200p",
+    "field 1": {
+      "name": "Range",
+      "value": "58\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "22\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "90\/100"
+    },
+    "description": "A tentatek-branded variant on the Dark Tetra Dualies. The weapon is focused on rolling, allowing you to do 4 dodges in a roll at the cost of lower accuracy and range while outside of your roll. The kit is great for inking and mobility.",
+    "url": "https://splatoonwiki.org/wiki/Light_Tetra_Dualies"
+  },
+  "Bamboozler 14 Mk II": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f4/S2_Weapon_Main_Bamboozler_14_Mk_II.png/128px-S2_Weapon_Main_Bamboozler_14_Mk_II.png",
+    "class": "Charger",
+    "sub": "Toxic Mist",
+    "special": "Burst-Bomb Launcher",
+    "level": 21,
+    "damage": "30-85",
+    "special pts": "160p",
+    "field 1": {
+      "name": "Range",
+      "value": "78\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "90\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "80\/100"
+    },
+    "description": "A Bamboozler 14 Mk I with Cuttlegear branding. It has an extremely fast charge time, but it has comparatively weak damage (unless you have a few main power ups, in which case have fun bamboozling). its kit makes it good for up-close pressure.",
+    "url": "https://splatoonwiki.org/wiki/Bamboozler_14_Mk_II"
+  },
+  "Custom Explosher": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/a/a4/S2_Weapon_Main_Custom_Explosher.png",
+    "class": "Slosher",
+    "sub": "Point Sensor",
+    "special": "Baller",
+    "level": 22,
+    "damage": "35 (splash), 55 (direct hit)",
+    "special pts": "220p",
+    "field 1": {
+      "name": "Range",
+      "value": "77\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "65\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "20\/100"
+    },
+    "description": "A Custom-branded variant of the Explosher. It's a heavy weapon that fires a slow, long-range projectile that explodes on contact. Its kit can help with tracking enemies and excaping trouble.",
+    "url": "https://splatoonwiki.org/wiki/Custom_Explosher"
+  },
+  ".52 Gal Deco": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/17/S2_Weapon_Main_.52_Gal_Deco.png/128px-S2_Weapon_Main_.52_Gal_Deco.png",
+    "class": "Shooter",
+    "sub": "Curling Bomb",
+    "special": "Stingray",
+    "level": 22,
+    "damage": "52",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "55\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "75\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "25\/100"
+    },
+    "description": "A deco-branded variant of the .52 Gal. It has a slower rate of fire with higher damage, and is surprisingly good at inking. its kit is better suited for the back line, however, rather than the main weapon's support and front line tendencies.",
+    "url": "https://splatoonwiki.org/wiki/.52_Gal_Deco"
+  },
+  "Rapid Blaster Pro": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e6/S2_Weapon_Main_Rapid_Blaster_Pro.png/128px-S2_Weapon_Main_Rapid_Blaster_Pro.png",
+    "class": "Blaster",
+    "sub": "Toxic Mist",
+    "special": "Ink Storm",
+    "level": 22,
+    "damage": "35 (splash), 85 (direct hit)",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "72\/100"
+    },
+    "field 2": {
+      "name": "Impact",
+      "value": "35\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "30\/100"
+    },
+    "description": "A blaster with a much longer range and slightly higher fire rate, at the cost of damage and ink consumption. The kit is balanced towards support and pressure.",
+    "url": "https://splatoonwiki.org/wiki/Rapid_Blaster_Pro"
+  },
+  "Goo Tuber": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/06/S2_Weapon_Main_Goo_Tuber.png/128px-S2_Weapon_Main_Goo_Tuber.png",
+    "class": "Charger",
+    "sub": "Suction Bomb",
+    "special": "Splashdown",
+    "level": 22,
+    "damage": "40-130 partially charged, 180 fully charged",
+    "special pts": "160p",
+    "field 1": {
+      "name": "Range",
+      "value": "78\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "38\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "70\/100"
+    },
+    "description": "A charger that can hold its charge for a very long time, as well as incomplete charges. it has slightly worse ink efficiency and range than a regular charger, however. The kit is great for reacting to enemies who get too close for comfort.",
+    "url": "https://splatoonwiki.org/wiki/Goo_Tuber"
+  },
+  "Mini Splatling": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/76/S2_Weapon_Main_Mini_Splatling.png/128px-S2_Weapon_Main_Mini_Splatling.png",
+    "class": "Splatling",
+    "sub": "Burst Bomb",
+    "special": "Tenta Missiles",
+    "level": 23,
+    "damage": "32",
+    "special pts": "210p",
+    "field 1": {
+      "name": "Range",
+      "value": "62\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "80\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "90\/100"
+    },
+    "description": "A splatling with a higher charge time and better mobility than its heavy counterpart. However, it suffers from lower range and firing time. The kit makes it great for applying pressure at mid range.",
+    "url": "https://splatoonwiki.org/wiki/Mini_Splatling"
+  },
+  "Grim Range Blaster": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/08/S2_Weapon_Main_Grim_Range_Blaster.png/128px-S2_Weapon_Main_Grim_Range_Blaster.png",
+    "class": "Blaster",
+    "sub": "Burst Bomb",
+    "special": "Tenta Missiles",
+    "level": 23,
+    "damage": "50-70 (Splash), 125 (Direct hit)",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "56\/100"
+    },
+    "field 2": {
+      "name": "Impact",
+      "value": "70\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "10\/100"
+    },
+    "description": "a Sheldon's Picks-branded variant of the Range Blaster. It has a higher range and a much lower fire rate compared to a regular blaster. The kit makes it great for nonstop pressure.",
+    "url": "https://splatoonwiki.org/wiki/Grim_Range_Blaster"
+  },
+  "Kensa Splattershot Pro": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/38/S2_Weapon_Main_Kensa_Splattershot_Pro.png/128px-S2_Weapon_Main_Kensa_Splattershot_Pro.png",
+    "class": "Shooter",
+    "sub": "Splat Bomb",
+    "special": "Booyah Bomb",
+    "level": 23,
+    "damage": "42",
+    "special pts": "210p",
+    "field 1": {
+      "name": "Range",
+      "value": "70\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "60\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "30\/100"
+    },
+    "description": "A Toni Kensa-branded variant of the Splattershot Pro. It has a lower fire rate, greater damage, and longer range than the regular splattershot. The kit makes it a little ink-heavy, but it's very aggressive and easy to get a hang of.",
+    "url": "https://splatoonwiki.org/wiki/Kensa_Splattershot_Pro"
+  },
+  "L-3 Nozzlenose D": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0b/S2_Weapon_Main_L-3_Nozzlenose_D.png/128px-S2_Weapon_Main_L-3_Nozzlenose_D.png",
+    "class": "Nozzlenose",
+    "sub": "Burst Bomb",
+    "special": "Inkjet",
+    "level": 23,
+    "damage": "29",
+    "special pts": "200p",
+    "field 1": {
+      "name": "Range",
+      "value": "62\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "25\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "65\/100"
+    },
+    "description": "An alternative version of the L-3 Nozzlenose. It fires a quick 3-shot burst every trigger pull. The kit is easy to get a hang of and is great for aggressive play. The combo of one trigger pull and one burst bomb is not to be underestimated.",
+    "url": "https://splatoonwiki.org/wiki/L-3_Nozzlenose_D"
+  },
+  "Sploosh-o-matic 7": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/44/S2_Weapon_Main_Sploosh-o-matic_7.png/128px-S2_Weapon_Main_Sploosh-o-matic_7.png",
+    "class": "Shooter",
+    "sub": "Splat Bomb",
+    "special": "Ultra Stamp",
+    "level": 23,
+    "damage": "38",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "12"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "52\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "75\/100"
+    },
+    "description": "A Sheldon's Picks-branded version of the sploosh-o-matic. It has high attack, low range, and large spread. The kit makes it great for close-quarters combat.",
+    "url": "https://splatoonwiki.org/wiki/Sploosh-o-matic_7"
+  },
+  "Tenta Brella": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f5/S2_Weapon_Main_Tenta_Brella.png/128px-S2_Weapon_Main_Tenta_Brella.png",
+    "class": "Brella",
+    "sub": "Squid Beacon",
+    "special": "Bubble Blower",
+    "level": 23,
+    "damage": "17 per pellet (cap: 119). 30 on contact with brella",
+    "special pts": "200p",
+    "field 1": {
+      "name": "Range",
+      "value": "62\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "85\/100"
+    },
+    "field 3": {
+      "name": "Durability",
+      "value": "85\/100"
+    },
+    "description": "A much larger version of a splat brella. It can block more shots and leave a larger trail when launched, but is a bit slower and takes a bit more ink. The kit solidifies the weapon as good for defense and team play.",
+    "url": "https://splatoonwiki.org/wiki/Tenta_Brella"
+  },
+  "Luna Blaster Neo": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7e/S2_Weapon_Main_Luna_Blaster_Neo.png/128px-S2_Weapon_Main_Luna_Blaster_Neo.png",
+    "class": "Blaster",
+    "sub": "Ink Mine",
+    "special": "Suction-Bomb Launcher",
+    "level": 24,
+    "damage": "50-70 (Splash), 125 (Direct hit)",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "9\/100"
+    },
+    "field 2": {
+      "name": "Impact",
+      "value": "70\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "30\/100"
+    },
+    "description": "A Neo-branded version of the Luna Blaster. It has a higher fire rate and blast radius than a regular blaster, but a much lower range. THANKS TO YOUR [total jackass stunts] I HAVE [becomed] NEO.",
+    "url": "https://splatoonwiki.org/wiki/Luna_Blaster_Neo"
+  },
+  "Rapid Blaster Pro Deco": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/59/S2_Weapon_Main_Rapid_Blaster_Pro_Deco.png/128px-S2_Weapon_Main_Rapid_Blaster_Pro_Deco.png",
+    "class": "Blaster",
+    "sub": "Splash Wall",
+    "special": "Ink Armor",
+    "level": 24,
+    "damage": "35 (splash), 85 (direct hit)",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "72\/100"
+    },
+    "field 2": {
+      "name": "Impact",
+      "value": "35\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "30\/100"
+    },
+    "description": "A deco-branded variant of the rapid blaster pro. It has a much longer range and slightly higher fire rate than a regular blaster, at the cost of damage and ink consumption. The kit makes it great for aggressive players at range.",
+    "url": "https://splatoonwiki.org/wiki/Rapid_Blaster_Pro_Deco"
+  },
+  "Flingza Roller": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6c/S2_Weapon_Main_Flingza_Roller.png/128px-S2_Weapon_Main_Flingza_Roller.png",
+    "class": "Roller",
+    "sub": "Splash Wall",
+    "special": "Splat-Bomb Launcher",
+    "level": 24,
+    "damage": "35-150 (Ground), 40-150 (Midair), 125 (Roll)",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "58\/100"
+    },
+    "field 2": {
+      "name": "Ink Speed",
+      "value": "45\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "45\/100"
+    },
+    "description": "A roller capable of long-range verticle swings, at the cost of middling horizontal swings. The kit makes it good for protecting your allies.",
+    "url": "https://splatoonwiki.org/wiki/Flingza_Roller"
+  },
+  "Glooga Dualies Deco": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/82/S2_Weapon_Main_Glooga_Dualies_Deco.png/128px-S2_Weapon_Main_Glooga_Dualies_Deco.png",
+    "class": "Dualies",
+    "sub": "Splash Wall",
+    "special": "Baller",
+    "level": 24,
+    "damage": "36 (52.5 post-roll)",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "66\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "76\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "35\/100"
+    },
+    "description": "A deco-branded version of the glooga dualies. They have increased damage and range after a roll. The kit is great if you want to ensure you always have an exit strategy.",
+    "url": "https://splatoonwiki.org/wiki/Glooga_Dualies_Deco"
+  },
+  "Fresh Squiffer": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c1/S2_Weapon_Main_Fresh_Squiffer.png/128px-S2_Weapon_Main_Fresh_Squiffer.png",
+    "class": "Charger",
+    "sub": "Suction Bomb",
+    "special": "Inkjet",
+    "level": 24,
+    "damage": "40-80 partially charged, 140 fully charged",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "75\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "70\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "60\/100"
+    },
+    "description": "A Sheldon's Picks-branded variant of the Classic Squiffer. It charges quicker and is more efficient than a normal charger, but it has less range. This kit is great for those who want to get their hands dirty.",
+    "url": "https://splatoonwiki.org/wiki/Fresh_Squiffer"
+  },
+  "Kensa Undercover Brella": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e9/S2_Weapon_Main_Kensa_Undercover_Brella.png/128px-S2_Weapon_Main_Kensa_Undercover_Brella.png",
+    "class": "Brella",
+    "sub": "Torpedo",
+    "special": "Ink Armor",
+    "level": 24,
+    "damage": "12 per pellet (Cap: 40), 15 (Contact)",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "50\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "30\/100"
+    },
+    "field 3": {
+      "name": "Durability",
+      "value": "25\/100"
+    },
+    "description": "A Toni Kensa-branded variant of the Undercover Brella. Unlike a normal brella, you can keep firing while the brella is out, and it will not launch. However, it has low durability. the kit makes it great for engaging enemies.",
+    "url": "https://splatoonwiki.org/wiki/Kensa_Undercover_Brella"
+  },
+  "Ballpoint Splatling": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8c/S2_Weapon_Main_Ballpoint_Splatling.png/128px-S2_Weapon_Main_Ballpoint_Splatling.png",
+    "class": "Splatling",
+    "sub": "Toxic Mist",
+    "special": "Inkjet",
+    "level": 25,
+    "damage": "28 (Short), 30 (Long)",
+    "special pts": "200p",
+    "field 1": {
+      "name": "Range",
+      "value": "84\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "18\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "60\/100"
+    },
+    "description": "A splatling with two firing modes: a fast, short-range mode, and a slow, long-range mode. It can also be recharged while firing. The kit makes it good for area control.",
+    "url": "https://splatoonwiki.org/wiki/Ballpoint_Splatling"
+  },
+  "Foil Squeezer": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e7/S2_Weapon_Main_Foil_Squeezer.png/128px-S2_Weapon_Main_Foil_Squeezer.png",
+    "class": "Shooter",
+    "sub": "Splat Bomb",
+    "special": "Bubble Blower",
+    "level": 25,
+    "damage": "38 on press, 30 on hold.",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "77\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "52\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "29\/100"
+    },
+    "description": "A foil-branded version of the Squeezer. Pulling the trigger once follows a high-power, long range, and accurate shot, while holding the trigger fires more standard automatic rounds. Bubble Blower combos extremely well with splat bomb, and the kit makes it great for aggressive play.",
+    "url": "https://splatoonwiki.org/wiki/Foil_Squeezer"
+  },
+  "Kensa .52 Gal": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/fa/S2_Weapon_Main_Kensa_.52_Gal.png/128px-S2_Weapon_Main_Kensa_.52_Gal.png",
+    "class": "Shooter",
+    "sub": "Splash Wall",
+    "special": "Booyah Bomb",
+    "level": 25,
+    "damage": "52",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "55\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "75\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "25\/100"
+    },
+    "description": "LONG LIVE THE KING! This is a Toni Kensa-branded version of the .52 gal. It has lower fire rate and higher damage, but is surprisingly good at inking. It's great for playing support and getting kills, and splash wall and booyah bomb make it great for controlling the battlefield while you're at it.",
+    "url": "https://splatoonwiki.org/wiki/Kensa_.52_Gal"
+  },
+  "Splash-o-matic": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5b/S2_Weapon_Main_Splash-o-matic.png/128px-S2_Weapon_Main_Splash-o-matic.png",
+    "class": "Shooter",
+    "sub": "Toxic Mist",
+    "special": "Inkjet",
+    "level": 25,
+    "damage": "28",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "42\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "22\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "75\/100"
+    },
+    "description": "A shooter that focuses on inking. It's similar to an aerospray or splattershot jr, but with slightly higher damage and slightly lower fire rate, as well as a tighter spread. The kit is great for controlling the battlefield.",
+    "url": "https://splatoonwiki.org/wiki/Splash-o-matic"
+  },
+  "Gold Dynamo Roller": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/26/S2_Weapon_Main_Gold_Dynamo_Roller.png/128px-S2_Weapon_Main_Gold_Dynamo_Roller.png",
+    "class": "Roller",
+    "sub": "Splat Bomb",
+    "special": "Ink Armor",
+    "level": 25,
+    "damage": "35–180 (Ground), 40–180 (Midair), 125 (Roll)",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "76\/100"
+    },
+    "field 2": {
+      "name": "Ink Speed",
+      "value": "25\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "20\/100"
+    },
+    "description": "a Dynamo Roller with a different look. It has long range and high damage, but it is incredibly slow to fling and move with, even when the weapon isn't in use. Splat bomb makes it easy to engage your enemy, and the enhanced inking capabilites makes it easy to support your team with ink armor. If you see this weapon on the battlefield, you better  R U N.",
+    "url": "https://splatoonwiki.org/wiki/Gold_Dynamo_Roller"
+  },
+  "Firefin Splatterscope": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d6/S2_Weapon_Main_Firefin_Splatterscope.png/128px-S2_Weapon_Main_Firefin_Splatterscope.png",
+    "class": "Charger",
+    "sub": "Splash Wall",
+    "special": "Suction-Bomb Launcher",
+    "level": 25,
+    "damage": "40-80 partially charged, 160 fully charged",
+    "special pts": "220p",
+    "field 1": {
+      "name": "Range",
+      "value": "91\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "50\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "30\/100"
+    },
+    "description": "a Firefin-branded variant of the Splatterscope (and a scoped variant of the Firefin Splat Charger). It comes with a scope, but you can no longer store your charge while swimming. Useful for hanging around the back line and playing it safe.",
+    "url": "https://splatoonwiki.org/wiki/Firefin_Splatterscope"
+  },
+  "Nautilus 47": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/58/S2_Weapon_Main_Nautilus_47.png/128px-S2_Weapon_Main_Nautilus_47.png",
+    "class": "Splatling",
+    "sub": "Point Sensor",
+    "special": "Baller",
+    "level": 26,
+    "damage": "32",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "74\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "37\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "70\/100"
+    },
+    "description": "A splatling-type weapon that can store its charge. It has a middling range and firing time, and a slow charge time, but it can be recharged while firing.",
+    "url": "https://splatoonwiki.org/wiki/Nautilus_47"
+  },
+  "Zink Mini Splatling": {
+    "thumbnail": "https://splatoonwiki.org/wiki/Zink_Mini_Splatling",
+    "class": "Splatling",
+    "sub": "Curling Bomb",
+    "special": "Ink Storm",
+    "level": 26,
+    "damage": "32",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "62\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "80\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "90\/100"
+    },
+    "description": "A Mini Splatling with Zink branding. It has much better charge time and manueverability than the base splatling, but it has less range and firing time. Recommended for those who hang out in the backline despite having a mini splatling, for some reason.",
+    "url": "https://splatoonwiki.org/wiki/Zink_Mini_Splatling"
+  },
+  ".96 Gal Deco": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c3/S2_Weapon_Main_.96_Gal_Deco.png/128px-S2_Weapon_Main_.96_Gal_Deco.png",
+    "class": "Shooter",
+    "sub": "Splash Wall",
+    "special": "Splashdown",
+    "level": 26,
+    "damage": "62",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "74\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "80\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "10\/100"
+    },
+    "description": "the Deco-branded version of the .96 Gal. It has a very low fire rate and ink efficiency, but it packs a punch and has a very long range. The kit isn't highly recommended due to its lack of syngergy. I guess splash wall might technically help you out? I don't know.",
+    "url": "https://splatoonwiki.org/wiki/.96_Gal_Deco"
+  },
+  "Kensa Luna Blaster": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/90/S2_Weapon_Main_Kensa_Luna_Blaster.png/128px-S2_Weapon_Main_Kensa_Luna_Blaster.png",
+    "class": "Blaster",
+    "sub": "Fizzy Bomb",
+    "special": "Ink Storm",
+    "level": 26,
+    "damage": "50-70 (Splash), 125 (Direct hit)",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "9\/100"
+    },
+    "field 2": {
+      "name": "Impact",
+      "value": "70\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "30\/100"
+    },
+    "description": "a Toni Kensa-branded variant of the Luna Blaster. It has a high fire rate and blast size compared to other one-shot blasters, but it has an extremely short range. If you're a battle technician who likes to control your foes with your sub and special before finishing them off with your main, this set's for you.",
+    "url": "https://splatoonwiki.org/wiki/Kensa_Luna_Blaster"
+  },
+  "Dapple Dualies": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/69/S2_Weapon_Main_Dapple_Dualies.png/128px-S2_Weapon_Main_Dapple_Dualies.png",
+    "class": "Dualies",
+    "sub": "Squid Beacon",
+    "special": "Suction-Bomb Launcher",
+    "level": 26,
+    "damage": "36",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "24\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "47\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "80\/100"
+    },
+    "description": "The dapple dualies allow the player perform quicker dodge rolls and inflict more damage, but it has a shorter range and a shorter roll distance. After rolling, it fires faster and is more accurate. Recommended for players who want to swiftly splat their opponents and support their team",
+    "url": "https://splatoonwiki.org/wiki/Dapple_Dualies"
+  },
+  "Custom E-liter 4K": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/af/S2_Weapon_Main_Custom_E-liter_4K.png/128px-S2_Weapon_Main_Custom_E-liter_4K.png",
+    "class": "Charger",
+    "sub": "Squid Beacon",
+    "special": "Bubble Blower",
+    "level": 26,
+    "damage": "40-80 partially charged, 180 fully charged",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "96\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "20\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "15\/100"
+    },
+    "description": "the Custom version of the E-liter 4K. It sacrifices mobility, ink consumption, and mobility for extreme range. If your thing is supporting your team from the back while having the power to strike fear in your foes, this is the weapon set for you.",
+    "url": "https://splatoonwiki.org/wiki/Custom_E-liter_4K"
+  },
+  "Hydra Splatling": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/69/S2_Weapon_Main_Hydra_Splatling.png/128px-S2_Weapon_Main_Hydra_Splatling.png",
+    "class": "Splatling",
+    "sub": "Autobomb",
+    "special": "Splashdown",
+    "level": 27,
+    "damage": "32 (40 at full charge)",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "85\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "10\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "20\/100"
+    },
+    "description": "An extremely heavy splatling variant. It has an extremely long range and an extremely slow charge time, and it does extra damage when fully charged. It is so heavy that just having it equipped reduces your movement speed.",
+    "url": "https://splatoonwiki.org/wiki/Hydra_Splatling"
+  },
+  "Custom Blaster": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0c/S2_Weapon_Main_Custom_Blaster.png/128px-S2_Weapon_Main_Custom_Blaster.png",
+    "class": "Shooter",
+    "sub": "Autobomb",
+    "special": "Inkjet",
+    "level": 27,
+    "damage": "50-70 (Splash), 125 (Direct hit)",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "27\/100"
+    },
+    "field 2": {
+      "name": "Impact",
+      "value": "70\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "20\/100"
+    },
+    "description": "the Custom-branded version of the Blaster, firing one powerful, exploding shot at a slow rate of fire. This set is for those who want to charge into battle without fear.",
+    "url": "https://splatoonwiki.org/wiki/Custom_Blaster"
+  },
+  "Custom Jet Squelcher": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4b/S2_Weapon_Main_Custom_Jet_Squelcher.png/128px-S2_Weapon_Main_Custom_Jet_Squelcher.png",
+    "class": "Shooter",
+    "sub": "Burst Bomb",
+    "special": "Stingray",
+    "level": 27,
+    "damage": "32",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "82\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "35\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "30\/100"
+    },
+    "description": "the Custom version of the Jet Squelcher. It has a low rate of fire and low damage, but has the highest range of any automatic wea. ",
+    "url": "https://splatoonwiki.org/wiki/Custom_Jet_Squelcher"
+  },
+  "Kensa L-3 Nozzlenose": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d8/S2_Weapon_Main_Kensa_L-3_Nozzlenose.png/128px-S2_Weapon_Main_Kensa_L-3_Nozzlenose.png",
+    "class": "Nozzlenose",
+    "sub": "Splash Wall",
+    "special": "Ultra Stamp",
+    "level": 27,
+    "damage": "29",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "62\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "25\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "65\/100"
+    },
+    "description": "a Toni Kensa-branded variant of the L-3 Nozzlenose. It fires a rapid burst of 3 projectiles on each trigger pull. Are you someone who refuses to back down? Then this set's for you.",
+    "url": "https://splatoonwiki.org/wiki/Kensa_L-3_Nozzlenose"
+  },
+  "Neo Splash-o-matic": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/46/S2_Weapon_Main_Neo_Splash-o-matic.png/128px-S2_Weapon_Main_Neo_Splash-o-matic.png",
+    "class": "Shooter",
+    "sub": "Burst Bomb",
+    "special": "Suction-Bomb Launcher",
+    "level": 27,
+    "damage": "28",
+    "special pts": "210p",
+    "field 1": {
+      "name": "Range",
+      "value": "42\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "22\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "75\/100"
+    },
+    "description": "the Neo-branded variant of the the Splash-o-matic. It is similar to a splattershot jr. or aerospray, but it fires a bit slower and does a bit more damage, as well as having a tighter spread. THANKS TO YOUR [total jackass stunts] I HAVE [becomed] NEO",
+    "url": "https://splatoonwiki.org/wiki/Neo_Splash-o-matic"
+  },
+  "Kensa Glooga Dualies": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1f/S2_Weapon_Main_Kensa_Glooga_Dualies.png/128px-S2_Weapon_Main_Kensa_Glooga_Dualies.png",
+    "class": "Dualies",
+    "sub": "Fizzy Bomb",
+    "special": "Ink Armor",
+    "level": 27,
+    "damage": "36 (52.5 post-roll)",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "66/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "76\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "35\/100"
+    },
+    "description": "a Toni Kensa-branded variant of the Glooga Dualies. They have increased damage and range after rolling. If you've got the patience and cool to pop a can of fizzy soda without spilling a drop, this set's got your name on it",
+    "url": "https://splatoonwiki.org/wiki/Kensa_Glooga_Dualies"
+  },
+  "Bamboozler 14 Mk III": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/ca/S2_Weapon_Main_Bamboozler_14_Mk_III.png/128px-S2_Weapon_Main_Bamboozler_14_Mk_III.png",
+    "class": "Charger",
+    "sub": "Fizzy Bomb",
+    "special": "Bubble Blower",
+    "level": 27,
+    "damage": "30-85",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "78\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "90\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "80\/100"
+    },
+    "description": "A Bamboozler 14 Mk I with a different loadout and a gold color scheme. It has an extremely fast charge time, but it has comparatively weak damage (unless you have a few main power ups, in which case have fun bamboozling). This really is a set worthy of the legendary name- Actually, no... A set that SURPASSES the legendary name of Bamboozler! ...apparently",
+    "url": "https://splatoonwiki.org/wiki/Bamboozler_14_Mk_III"
+  },
+  "Ballpoint Splatling Nouveau": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b4/S2_Weapon_Main_Ballpoint_Splatling_Nouveau.png/128px-S2_Weapon_Main_Ballpoint_Splatling_Nouveau.png",
+    "class": "Splatling",
+    "sub": "Squid Beacon",
+    "special": "Ink Storm",
+    "level": 28,
+    "damage": "28 (Short), 30 (Long)",
+    "special pts": "220p",
+    "field 1": {
+      "name": "Range",
+      "value": "48\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "18\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "60\/100"
+    },
+    "description": "the Nouveau-branded version of the Ballpoint Splatling. This weapon has two firing modes: a fast, short-range mode, and a slow, long-range mode. It can also be recharged while firing. If the refinement of the Ballpoint Splatling is your style, but your heart yearns for something more, give this set a try.",
+    "url": "https://splatoonwiki.org/wiki/Ballpoint_Splatling_Nouveau"
+  },
+  "Aerospray RG": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5e/S2_Weapon_Main_Aerospray_RG.png/128px-S2_Weapon_Main_Aerospray_RG.png",
+    "class": "Shooter",
+    "sub": "Sprinkler",
+    "special": "Baller",
+    "level": 28,
+    "damage": "180p",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "35\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "10\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "90\/100"
+    },
+    "description": "a variant of the Aerospray MG with a golden paint job. I don't know what the point of this kit is either. use this weapon if you hate yourself <:Splat_Tim:891518292005634059>",
+    "url": "https://splatoonwiki.org/wiki/Aerospray_RG"
+  },
+  "Foil Flingza Roller": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/ff/S2_Weapon_Main_Foil_Flingza_Roller.png/128px-S2_Weapon_Main_Foil_Flingza_Roller.png",
+    "class": "Roller",
+    "sub": "Suction Bomb",
+    "special": "Tenta Missiles",
+    "level": 28,
+    "damage": "35–150 (Ground), 40–150 (Midair), 125 (Roll) ",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "58\/100"
+    },
+    "field 2": {
+      "name": "Ink Speed",
+      "value": "45\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "45\/100"
+    },
+    "description": "a Foil-branded version of the Flingza Roller. It has long range vertical flings, but with lower long-range damage and middling horizontal speed. The easy-to-use kit goes well with this unique roller like this that can take some getting used to.",
+    "url": "https://splatoonwiki.org/wiki/Foil_Flingza_Roller"
+  },
+  "Custom Goo Tuber": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0a/S2_Weapon_Main_Custom_Goo_Tuber.png/128px-S2_Weapon_Main_Custom_Goo_Tuber.png",
+    "class": "Charger",
+    "sub": "Curling Bomb",
+    "special": "Inkjet",
+    "level": 28,
+    "damage": "40-130 partially charged, 180 fully charged",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "78\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "38\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "78\/100"
+    },
+    "description": "a Custom-branded version of the Goo Tuber. This weapon can hold a charge for an exceptionally long time in comparison to other chargers, but Its charging time takes slightly longer, and the range is slightly shorter. Become a master of the charged shot while wielding your influence on the map, and you'll be unstoppable.",
+    "url": "https://splatoonwiki.org/wiki/Custom_Goo_Tuber"
+  },
+  "Kensa Splatterscope": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e2/S2_Weapon_Main_Kensa_Splatterscope.png/128px-S2_Weapon_Main_Kensa_Splatterscope.png",
+    "class": "Charger",
+    "sub": "Sprinkler",
+    "special": "Baller",
+    "level": 28,
+    "damage": "40-80 partially charged, 160 fully charged",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "91\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "50\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "30\/100"
+    },
+    "description": "a Toni Kensa-branded variant of the Splatterscope and a scoped variant of the Kensa Charger. If you're a scoped charger user who's looking for something new, look no further than this set.",
+    "url": "https://splatoonwiki.org/wiki/Kensa_Splatterscope"
+  },
+  "Tenta Sorella Brella": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/8/8e/S2_Weapon_Main_Tenta_Sorella_Brella.png",
+    "class": "Brella",
+    "sub": "Splash Wall",
+    "special": "Curling-Bomb Launcher",
+    "level": 28,
+    "damage": "17 per pellet (cap: 119). 30 on contact with brella",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "62\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "85\/100"
+    },
+    "field 3": {
+      "name": "Durability",
+      "value": "85\/100"
+    },
+    "description": "A Sorella-branded version of the Tenta Brella. Whether you're focused on attacking or defending, this setup should suit your style.",
+    "url": "https://splatoonwiki.org/wiki/Tenta_Sorella_Brella"
+  },
+  "Custom Hydra Splatling": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/7/73/S2_Weapon_Main_Custom_Hydra_Splatling.png",
+    "class": "Splatling",
+    "sub": "Ink Mine",
+    "special": "Ink Armor",
+    "level": 29,
+    "damage": "32 (40 at full charge)",
+    "special pts": "200p",
+    "field 1": {
+      "name": "Range",
+      "value": "85\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "10\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "20\/100"
+    },
+    "description": "A Hydra Splatling with Custom branding and a different loadout. It has the highest range and slowest charge time, with a damage boost activated on a full charge. this setup suits a cautious battler.",
+    "url": "https://splatoonwiki.org/wiki/Custom_Hydra_Splatling"
+  },
+  "Kensa Mini Splatling": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/c/c2/S2_Weapon_Main_Kensa_Mini_Splatling.png",
+    "class": "Splatling",
+    "sub": "Toxic Mist",
+    "special": "Ultra Stamp",
+    "level": 29,
+    "damage": "32",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "62\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "80\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "90\/100"
+    },
+    "description": "a Toni Kensa-branded variant of the Mini Splatling. This set is for those who use every tool available to get the job done, or who like weapons that look fucking awesome.",
+    "url": "https://splatoonwiki.org/wiki/Kensa_Mini_Splatling"
+  },
+  "Aerospray PG": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/3/35/S2_Weapon_Main_Aerospray_PG.png",
+    "class": "Shooter",
+    "sub": "Burst Bomb",
+    "special": "Booyah Bomb",
+    "level": 29,
+    "damage": "24",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "35\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "10\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "90\/100"
+    },
+    "description": "A Sheldon's Picks-branded variant of the Aerospray MG. use this weapon if you hate yourself <:Splat_Tim:891518292005634059>",
+    "url": "https://splatoonwiki.org/wiki/Aerospray_PG"
+  },
+  "H-3 Nozzelnose": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/c/c5/S2_Weapon_Main_H-3_Nozzlenose.png",
+    "class": "Nozzlenose",
+    "sub": "Point Sensor",
+    "special": "Tenta Missiles",
+    "level": 29,
+    "damage": "41",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "70\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "58\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "30\/100"
+    },
+    "description": "the heavy version of the L-3 Nozzlenose. It can't fire as rapidly, but it does more damage. this set is a good choice for well-rounded fighters.",
+    "url": "https://splatoonwiki.org/wiki/H-3_Nozzlenose"
+  },
+  "Kensa Dynamo Roller": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/6/6b/S2_Weapon_Main_Kensa_Dynamo_Roller.png",
+    "class": "Roller",
+    "sub": "Sprinkler",
+    "special": "Booyah Bomb",
+    "level": 29,
+    "damage": "40–180 (Ground), 40–180 (Midair), 125 (Roll)",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "76\/100"
+    },
+    "field 2": {
+      "name": "Ink Speed",
+      "value": "25\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "20\/100"
+    },
+    "description": "a Toni Kensa-branded variant of the Dynamo Roller. This is a set for battlefield divas who want all eyes on them. If you see this on the battlefield, you better R U N",
+    "url": "https://splatoonwiki.org/wiki/Kensa_Dynamo_Roller"
+  },
+  "Dapple Dualies Nouveau": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/2/20/S2_Weapon_Main_Dapple_Dualies_Nouveau.png",
+    "class": "Dualies",
+    "sub": "Toxic Mist",
+    "special": "Ink Storm",
+    "level": 29,
+    "damage": "36",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "24\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "47\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "80\/100"
+    },
+    "description": "the Nouveau branded version of the Dapple Dualies. Compared to the Splat Dualies, this weapon lets the player perform quicker dodge rolls and inflict more damage, but it has a shorter range and a shorter roll distance. Use them to sow chaos, and then reap the rewards",
+    "url": "https://splatoonwiki.org/wiki/Dapple_Dualies_Nouveau"
+  },
+  "Nautilus 79": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/44/S2_Weapon_Main_Nautilus_79.png/128px-S2_Weapon_Main_Nautilus_79.png",
+    "class": "Splatling",
+    "sub": "Suction Bomb",
+    "special": "Inkjet",
+    "level": 30,
+    "damage": "32",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "74\/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "37\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "70\/100"
+    },
+    "description": "A modified variant of the Nautilus 47. This set is for those who always answer when opportunity comes knocking.",
+    "url": "https://splatoonwiki.org/wiki/Nautilus_79"
+  },
+  "Cherry H-3 Nozzlenose": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/24/S2_Weapon_Main_Cherry_H-3_Nozzlenose.png/128px-S2_Weapon_Main_Cherry_H-3_Nozzlenose.png",
+    "class": "Nozzlenose",
+    "sub": "Splash Wall",
+    "special": "Bubble Blower",
+    "level": 30,
+    "damage": "41",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "70\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "58\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "30\/100"
+    },
+    "description": "a Sheldon's Picks-branded variant of the H-3 Nozzlenose. this set suits those who believe the best offense is a good defense",
+    "url": "https://splatoonwiki.org/wiki/Cherry_H-3_Nozzlenose"
+  },
+  "Clash Blaster": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/21/S2_Weapon_Main_Clash_Blaster.png/128px-S2_Weapon_Main_Clash_Blaster.png",
+    "class": "Blaster",
+    "sub": "Splat Bomb",
+    "special": "Stingray",
+    "level": 30,
+    "damage": "30 (splash), 60 (direct hit)",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "21\/100"
+    },
+    "field 2": {
+      "name": "Impact",
+      "value": "25\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "65\/100"
+    },
+    "description": "The Clash Blaster fires at a short range, and at very high speed, but takes two direct hits to splat an opponent. Compared to other blasters, which require a direct hit for quick splats, the Clash Blaster fires more rapidly, increasing mobility and turf coverage.",
+    "url": "https://splatoonwiki.org/wiki/Clash_Blaster"
+  },
+  "Clash Blaster Neo": {
+    "thumbnail": "https://splatoonwiki.org/wiki/File:S2_Weapon_Main_Clash_Blaster_Neo.png",
+    "class": "Blaster",
+    "sub": "Curling Bomb",
+    "special": "Tenta Missiles",
+    "level": 30,
+    "damage": "30 (splash), 60 (direct hit)",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "21\/100"
+    },
+    "field 2": {
+      "name": "Impact",
+      "value": "25\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "65\/100"
+    },
+    "description": "a Neo-branded version of the Clash Blaster. It fires at short range and very high soeed at the cost of damage. THANKS TO YOUR [total jackass stunts] I HAVE [becomed] NEO.",
+    "url": "https://splatoonwiki.org/wiki/Clash_Blaster_Neo"
+  },
+  "H-3 Nozzelenose D": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/01/S2_Weapon_Main_H-3_Nozzlenose_D.png/128px-S2_Weapon_Main_H-3_Nozzlenose_D.png",
+    "class": "Nozzlenose",
+    "sub": "Suction Bomb",
+    "special": "Ink Armor",
+    "level": 30,
+    "damage": "41",
+    "special pts": "220p",
+    "field 1": {
+      "name": "Range",
+      "value": "70\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "58\/100"
+    },
+    "field 3": {
+      "name": "Fire Rate",
+      "value": "30\/100"
+    },
+    "description": "the heavy version of the L-3 Nozzlenose D and an alternative version of the H-3 Nozzlenose. In the right hands, this interesting combination of abilities may give rise to many unique strategies.",
+    "url": "https://splatoonwiki.org/wiki/H-3_Nozzlenose_D"
+  },
+  "Clear Dapple Dualies": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/15/S2_Weapon_Main_Clear_Dapple_Dualies.png/128px-S2_Weapon_Main_Clear_Dapple_Dualies.png",
+    "class": "Dualies",
+    "sub": "Torpedo",
+    "special": "Splashdown",
+    "level": 30,
+    "damage": "36",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "24\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "47\/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "80\/100"
+    },
+    "description": "Compared to the Splat Dualies, this weapon lets the player perform quicker dodge rolls and inflict more damage, but it has a shorter range and a shorter roll distance. For those interested in cleaning up the battlefield in a hurried blur, this is the set for you.",
+    "url": "https://splatoonwiki.org/wiki/Clear_Dapple_Dualies"
+  },
+  "Custom E-liter 4K Scope": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/14/S2_Weapon_Main_Custom_E-liter_4K_Scope.png/128px-S2_Weapon_Main_Custom_E-liter_4K_Scope.png",
+    "class": "Charger",
+    "sub": "Squid Beacon",
+    "special": "Bubble Blower",
+    "level": 30,
+    "damage": "40-80 partially charged, 180 fully charged",
+    "special pts": "170p",
+    "field 1": {
+      "name": "Range",
+      "value": "100/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "20/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "5/100"
+    },
+    "description": "The Custom E-liter 4K Scope gives you everything you loved about the Custom 4K with the added ability to zoom in on distant opponents",
+    "url": "https://splatoonwiki.org/wiki/Custom_E-liter_4K_Scope"
+  },
+  "E-liter 4K Scope": {
+    "thumbnail": "https://splatoonwiki.org/wiki/File:S2_Weapon_Main_E-liter_4K_Scope.png",
+    "class": "Charger",
+    "sub": "Ink Mine",
+    "special": "Ink Storm",
+    "level": 30,
+    "damage": "40-80 partially charged, 180 fully charged",
+    "special pts": "180p",
+    "field 1": {
+      "name": "Range",
+      "value": "100/100"
+    },
+    "field 2": {
+      "name": "Charge Speed",
+      "value": "20/100"
+    },
+    "field 3": {
+      "name": "Mobility",
+      "value": "5/100"
+    },
+    "description": "This is the scoped version of the E-liter 4K. Although it cannot store a charge like most unscoped chargers, it has the longest range of any charger. ",
+    "url": "https://splatoonwiki.org/wiki/E-liter_4K_Scope"
+  },
+  "Tenta Camo Brella": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d2/S2_Weapon_Main_Tenta_Camo_Brella.png/128px-S2_Weapon_Main_Tenta_Camo_Brella.png",
+    "class": "Brella",
+    "sub": "Ink Mine",
+    "special": "Ultra Stamp",
+    "level": 30,
+    "damage": "17 per pellet (cap: 119). 30 on contact with brella",
+    "special pts": "210p",
+    "field 1": {
+      "name": "Range",
+      "value": "62\/100"
+    },
+    "field 2": {
+      "name": "Damage",
+      "value": "85\/100"
+    },
+    "field 3": {
+      "name": "Durability",
+      "value": "85\/100"
+    },
+    "description": "a Sheldon's Picks-branded version of the Tenta Brella that comes with a different sub weapon and special weapon. If you're a survivalist, this may be the set of your dreams!",
+    "url": "https://splatoonwiki.org/wiki/Tenta_Camo_Brella"
+  }
+}
