@@ -1,4 +1,5 @@
 var wepkitjson
+var playerLevel
 fetch("https://raw.githubusercontent.com/Silicasandwhich/splatoon2randomizer/main/wepkits.json")
   .then(response => response.json())
   .then(data => wepkitjson = data)
@@ -12,10 +13,14 @@ fetch("https://raw.githubusercontent.com/Silicasandwhich/splatoon2randomizer/mai
   .then(data => weptypejson = data)
 
 function randomize(){
+  playerLevel = 30
+  if(document.getElementById("ilevel").value >= 1){
+    playerLevel = document.getElementById("ilevel").value
+  }
   if (document.getElementById('tclass').checked){
     var unlockedlist = []
     for(key in weptypejson){
-      if(weptypejson[key] <= document.getElementById("ilevel").value){
+      if(weptypejson[key] <= playerLevel){
         unlockedlist.push(key)
       }
     }
@@ -24,7 +29,7 @@ function randomize(){
   else{
     var unlockedlist = []
     for(key in weplistjson){
-      if(weplistjson[key] <= document.getElementById("ilevel").value){
+      if(weplistjson[key] <= playerLevel){
         unlockedlist.push(key)
       }
     }
