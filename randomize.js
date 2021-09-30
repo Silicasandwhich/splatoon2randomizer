@@ -42,7 +42,7 @@ function randomize(){
     document.getElementById("wepspecial").innerText = "Special: "+wepkitjson[selectedWep]["special"]
     document.getElementById("weplvl").innerText = "Unlock Level: "+wepkitjson[selectedWep]["level"]
     document.getElementById("wepdmg").innerText = "Base Damage: "+wepkitjson[selectedWep]["damage"]
-    document.getElementById("weppts").innerText = "Class: "+wepkitjson[selectedWep]["special pts"]
+    document.getElementById("weppts").innerText = "Special Points: "+wepkitjson[selectedWep]["special pts"]
     document.getElementById("wepfield1").innerText = wepkitjson[selectedWep]["field 1"]["name"]+": "+wepkitjson[selectedWep]["field 1"]["value"]
     document.getElementById("wepfield2").innerText = wepkitjson[selectedWep]["field 2"]["name"]+": "+wepkitjson[selectedWep]["field 2"]["value"]
     document.getElementById("wepfield3").innerText = wepkitjson[selectedWep]["field 3"]["name"]+": "+wepkitjson[selectedWep]["field 3"]["value"]
