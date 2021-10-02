@@ -8,32 +8,31 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <script src="randomize.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6"></script>
+        <script src="lookup.js"></script>
         <nav class="navbar navbar-default">
             <div class="container-fluid">
               <div class="navbar-header">
-                <a class="navbar-brand" href="#">Splatoon 2 Randomizer</a>
+                <a class="navbar-brand" href="index.html">Splatoon 2 Randomizer</a>
               </div>
               <ul class="nav navbar-nav">
-                <li class="active"><a href="#">Randomizer</a></li>
-                <li><a href="Lookup.html">Weapon Lookup</a></li>
+                <li><a href="index.html">Randomizer</a></li>
+                <li class="active"><a href="#">Weapon Lookup</a></li>
               </ul>
             </div>
           </nav>
-        <h1 id="page-header">Splatoon 2 Loadout Randomizer</h1>
+        <h1 id="page-header">Splatoon 2 Weapon Lookup</h1>
         <form>
-           <label for="ilevel">Level:</label>
-           <input type="text" id="ilevel" name="ilevel"> 
+           <label for="iwepname">Weapon Name:</label>
+           <input type="text" id="iwepname" name="iwepname"> 
            <br>
-           <label for="tclass">Random Class Only</label>
-           <input type="checkbox" id="tclass" name="tclass">
         </form>
         <div class="col-md-12 text-center">
-            <button id="randomize" onclick="randomize()">Randomize!</button>
+            <button id="lookup" onclick="lookup()">Get Weapon Information</button>
         </div>
-        <h2 id="wepname">Enter your level, and Click "Randomize" to get a random weapon.</h2>
+        <h2 id="wepname">Enter your weapon name, and click the button to get information.</h2>
         <img src="icon.png" alt="thumbnail" id="thumbnail">
-        <p><i>Weapon images courtesy of the <a href = "https://splatoonwiki.org">Splatoon 2 Wiki.</a> Unrandomized thumbnail courtesy of Eieminia</i></p>
+        <p><i>Weapon images courtesy of the <a href = "https://splatoonwiki.org">Splatoon 2 Wiki.</a> Regular thumbnail courtesy of Eieminia</i></p>
         <p id="wepdesc">Description: --</p>
             <p id="wepclass">Class: -- </p>
             <p id="wepsub">Sub: -- </p>
