@@ -459,6 +459,29 @@
     "description": "The Carbon Roller Deco is a main weapon in Splatoon and Splatoon 2. It is a Deco-branded variant of the Carbon Roller, having the same stats but a different sub weapon and special weapon.",
     "url": "https://splatoonwiki.org/wiki/Carbon_Roller_Deco"
   },
+  "catboy": {
+    "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/4/49/S2_Weapon_Main_Carbon_Roller_Deco.png",
+    "class": "Roller",
+    "sub": "Burst Bomb",
+    "special": "Autobomb Launcher",
+    "level": 10,
+    "damage": "25-100 (Ground), 40-120 (Midair), 70 (Roll)",
+    "special pts": "190p",
+    "field 1": {
+      "name": "Range",
+      "value": "20\/100"
+    },
+    "field 2": {
+      "name": "Ink Speed",
+      "value": "63\/100"
+    },
+    "field 3": {
+      "name": "Handling",
+      "value": "65\/100"
+    },
+    "description": "The Carbon Roller Deco is a main weapon in Splatoon and Splatoon 2. It is a Deco-branded variant of the Carbon Roller, having the same stats but a different sub weapon and special weapon.",
+    "url": "https://splatoonwiki.org/wiki/Carbon_Roller_Deco"
+  },
   "Octobrush": {
     "thumbnail": "https://cdn.wikimg.net/en/splatoonwiki/images/c/c3/S2_Weapon_Main_Octobrush.png",
     "class": "Brush",
