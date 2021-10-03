@@ -11,8 +11,17 @@ const options = {
 }
 
 function lookup(){
-    console.log(fuse.search(document.getElementById("iwepname").value, options)[0])
-    selectedWep = fuse.search(document.getElementById("iwepname").value, options)[0]["item"]
+    if(document.getElementById("iwepname").value == "catboy"){
+        selectedWep = "Carbon Roller Deco"
+    }else if(document.getElementById("iwepname").value == "silica"){
+        selectedWep = "Hydra Splatling"
+    }else if(document.getElementById("iwepname").value == "redyoshi"){
+        selectedWep = "Neo Splash-o-matic"
+    }else if(document.getElementById("iwepname").value == "rodrick"){
+        selectedWep = "L-3 Nozzlenose"
+    }else{
+        selectedWep = fuse.search(document.getElementById("iwepname").value, options)[0]["item"]
+    }
     try{
         document.getElementById("wepname").innerText = selectedWep
         document.getElementById("thumbnail").src = wepkitjson[selectedWep]["thumbnail"]
