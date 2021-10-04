@@ -14,7 +14,7 @@ function lookup(){
     if(document.getElementById("iwepname").value == "catboy"){
         selectedWep = "Carbon Roller Deco"
     }else if(document.getElementById("iwepname").value == "silica"){
-        selectedWep = "Hydra Splatling"
+        selectedWep = "Custom Hydra Splatling"
     }else if(document.getElementById("iwepname").value == "redyoshi"){
         selectedWep = "Neo Splash-o-matic"
     }else if(document.getElementById("iwepname").value == "rodrick"){
